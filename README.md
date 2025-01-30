@@ -1,6 +1,12 @@
 # atmProjectZip
 zip of the project
 
+The project pulls innformation of an .xlsx file as a database
+
+![image](https://github.com/user-attachments/assets/5c270cf3-31df-429c-b168-9975ac81a830)
+
+those are the possible NIPS for access
+
 step 1
 -unzip the file in the directory of your choosing, the project was build with vite+react
 
