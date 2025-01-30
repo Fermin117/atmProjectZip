@@ -3,6 +3,7 @@ zip of the project
 
 step 1
 -unzip the file in the directory of your choosing, the project was build with vite+react
+
 step 2:
 run the following commnads first
 -npm install
